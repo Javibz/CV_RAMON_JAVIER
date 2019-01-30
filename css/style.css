@@ -6,6 +6,7 @@ body {
 
 h1,h2,h3,h4,h5,h6 {
 	font-weight: bold;
+	width: 100%;
 }
 
 img {
@@ -101,13 +102,6 @@ ul, ol {
 	margin: 0 auto;
 	float: none;
 }
-
-/*.contact {
-	background-color: #040466;
-	opacity: 0.9;
-	padding-top: 10px;
-	margin-bottom: 10px;
-}*/
 
 .contact h2 {
 	text-align: center;
@@ -275,7 +269,6 @@ ul, ol {
 	position: relative;
 	box-shadow: 10px 5px 6px #353535;
 	background-color: #fff;
-
 }
 
 .timeline-panel-container-inverted .timeline-panel {
@@ -338,7 +331,6 @@ ul, ol {
 }
 
 .education-block h5 {
-	/*color: #888;*/
 	font-size: 20px;
 	font-style: italic;
 	margin-bottom: 15px;
@@ -386,47 +378,6 @@ ul, ol {
 	-webkit-filter: none;
 }
 
-/* RECOMMANDATIONS CAROUSEL*/
-/*
-#recommandations {
-	background-color: #fff;
-}
-
-#recommandations .heading h2 {
-	color: #1818a3;
-}
-
-.carousel-control-prev, .carousel-control-next {
-	background-image: none;
-	color: #1818a3;
-}
-
-.carousel-control-prev:hover, .carousel-control-next:hover {
-	color: #000;
-}
-
-.carousel-indicators {
-	bottom: 0;
-}
-
-.carousel-indicators li {
-	border: 0.5px solid #1818a3;
-	background-color: #1818a3;
-}
-
-.carousel-indicators li .active {
-	background-color: #1818a3;
-}
-
-#myCarousel .carousel-item {
-	padding: 40px 30px;
-}
-
-#myCarousel .carousel-item h3 {
-	color: #1818a3;
-	font-style: italic;
-}*/
-
 /* FOOTER */
 
 footer {
@@ -449,10 +400,6 @@ footer .fa-chevron-up {
 footer .fas:hover {
 	font-size: 30px;
 }
-
-/*footer .fa-heart {
-	color: #c60909;
-}*/
 
 .social-media {
 	display: flex;
