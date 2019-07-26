@@ -382,6 +382,25 @@ ul, ol {
 	-webkit-filter: none;
 }
 
+/* CERTIFICATIONS */
+
+#certifications {
+	background-color: #fff;
+}
+
+#certifications  h2 {
+	color: #357a93;
+}
+#certifications a {
+	text-decoration: none;
+	color: #357a93;
+	text-align: center;
+	font-size: 12px;
+}
+
+#certifications a:hover {
+	color: #353535;
+}
 /* FOOTER */
 
 footer {
