@@ -127,11 +127,11 @@ ul, ol {
 	text-align: center;
 }
 
-.presentation h2 {
-	color: #dbd004;
+.presentation h1 {
+	color: rgb(61, 61, 61);
 	font-size: 45px;
 	text-transform: uppercase;
-	text-shadow: 2px 2px 10px #000;
+	text-shadow: 2px 2px 10px rgb(79, 179, 217);
 }
 
 .presentation h3 {
